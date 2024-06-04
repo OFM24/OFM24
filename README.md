@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @OFM24
 - 👀 I do always my best 
-- 🌱 I’m currently learning Java , Python and MIPS
-- 💞️ I would like to try programing mods for minecraft
+- 🌱 I’m currently learning Java and Python.
+- I also have learned a litel bit of MIPS , Haskell and Prolog.
+- 💞️ I would like to specialize in ciber-security
 - 📫 any contacat via ====> odlfm2004@gmail.com
 - curently studing Informatics Engineering
 - No crypto-bro
